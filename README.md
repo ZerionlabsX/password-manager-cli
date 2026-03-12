@@ -1,3 +1,5 @@
+# Secure Password Organizer CLI
+
 REPOSITORY SETUP GUIDE FOR YOUR FIRST GITHUB PROJECT
 Secure Password Organizer CLI
 
@@ -141,8 +143,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 
 10. README.md
-
-# Secure Password Organizer CLI
 
 A secure command-line password manager built with Python that stores credentials in encrypted vaults protected by a master password.
 
